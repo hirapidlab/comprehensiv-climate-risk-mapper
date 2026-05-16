@@ -1,0 +1,6 @@
+location_id,name,aqi,temperature_c,humidity_percent,rainfall_7day_mm,rainfall_30day_mm,standing_water,drainage_quality,population_under_5,population_5_to_18
+V001,Anandpur,42,29.5,68,12,95,FALSE,moderate,68,212
+V002,Bishnupur,167,38.2,71,55,180,TRUE,poor,84,275
+V003,Chandkhera,98,33.0,62,8,72,FALSE,good,55,180
+V004,Devripura,210,41.5,79,225,540,TRUE,poor,120,395
+V005,Eklavyapur,68,31.0,55,0,40,FALSE,moderate,42,160
